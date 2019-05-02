@@ -1,0 +1,39 @@
+/*
+ * MDBootstrap Parallax
+ * Learn more: https://mdbootstrap.com/docs/jquery/css/parallax/
+ * About MDBootstrap: https://mdbootstrap.com/
+ */
+/* line 2, _module.scss */
+.jarallax-keep-img {
+  position: relative;
+  z-index: 0; }
+
+/* line 6, _module.scss */
+.jarallax-keep-img > .jarallax-img {
+  position: relative;
+  display: block;
+  max-width: 100%;
+  height: auto;
+  z-index: -100; }
+
+/* line 13, _module.scss */
+span[data-jarallax-element] {
+  display: inline-block; }
+
+/* line 17, _module.scss */
+.jarallax {
+  min-height: 600px; }
+
+/* line 21, _module.scss */
+.jarallax > .jarallax-img {
+  position: absolute;
+  object-fit: cover;
+  /* support for plugin https://github.com/bfred-it/object-fit-images */
+  font-family: 'object-fit: cover;';
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: -1; }
+
+/*# sourceMappingURL=parallax.css.map */
