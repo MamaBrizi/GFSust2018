@@ -1,0 +1,11 @@
+/* Scss Document */
+
+.bg-dkblue {
+  background-color: #002856 !important;
+}
+
+a.bg-dkblue:hover, a.bg-dkblue:focus,
+button.bg-dkblue:hover,
+button.bg-dkblue:focus {
+  background-color: rgba(0, 40, 86, 1) !important;
+}

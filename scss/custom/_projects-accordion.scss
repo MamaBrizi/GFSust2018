@@ -1,0 +1,165 @@
+/* Scss Document */
+
+.projects-accordion {
+  /*max-width: 800px;*/
+	background-color:#238dc1;
+  margin: 50px auto;
+  box-shadow: 0 0 1px rgba(0,0,0,0.1);
+}
+ 
+.projects-accordion .card,
+.projects-accordion .card:last-child .card-header {
+  border: none;
+	background-color: transparent;
+}
+ 
+.projects-accordion .card-header {
+  border-bottom-color: #EDEFF0;
+  background: transparent;
+}
+.projects-accordion .card-body {
+  background-color:#97caeb;
+}
+ 
+.projects-accordion .fa-stack {
+  font-size: 18px;
+}
+ 
+.projects-accordion .btn {
+  width: 100%;
+  font-weight: bold;
+  color: #004987;
+  padding: 0;
+}
+ 
+.projects-accordion .btn-link:hover,
+.projects-accordion .btn-link:focus {
+  text-decoration: none;
+}
+ 
+.projects-accordion li + li {
+  margin-top: 10px;
+}
+
+/* Harrisburg Accordion */
+
+.harrisburg-accordion {
+  background-color:#238dc1;
+  margin: 10px auto;
+  box-shadow: 0 0 1px rgba(0,0,0,0.1);
+}
+.harrisburg-accordion .card,
+.harrisburg-accordion .card:last-child .card-header {
+  border: none;
+	background-color: transparent;
+}
+ 
+.harrisburg-accordion .card-header {
+  border-bottom-color: #EDEFF0;
+  background: transparent;
+}
+.harrisburg-accordion .card-body {
+  background-color:#97caeb;
+}
+ 
+.harrisburg-accordion .fa-stack {
+  font-size: 18px;
+}
+ 
+.harrisburg-accordion .btn {
+  width: 100%;
+  font-weight: bold;
+  color: #004987;
+  padding: 0;
+}
+ 
+.harrisburg-accordion .btn-link:hover,
+.harrisburg-accordion .btn-link:focus {
+  text-decoration: none;
+}
+ 
+.harrisburg-accordion li + li {
+  margin-top: 10px;
+}
+
+/* Valley Forge Accordion */
+
+.valleyforge-accordion {
+  background-color:#ffc107;
+  margin: 10px auto;
+  box-shadow: 0 0 1px rgba(0,0,0,0.1);
+}
+.valleyforge-accordion .card,
+.valleyforge-accordion .card:last-child .card-header {
+  border: none;
+	background-color: transparent;
+}
+ 
+.valleyforge-accordion .card-header {
+  border-bottom-color: #EDEFF0;
+  background: transparent;
+}
+.valleyforge-accordion .card-body {
+  background-color:#ffe69b;
+}
+ 
+.valleyforge-accordion .fa-stack {
+  font-size: 18px;
+}
+ 
+.valleyforge-accordion .btn {
+  width: 100%;
+  font-weight: bold;
+  color: #004987;
+  padding: 0;
+}
+ 
+.valleyforge-accordion .btn-link:hover,
+.valleyforge-accordion .btn-link:focus {
+  text-decoration: none;
+}
+ 
+.valleyforge-accordion li + li {
+  margin-top: 10px;
+}
+
+/* Around GF Accordion */
+
+.aroundgf-accordion {
+  background-color:#487629;
+  margin: 10px auto;
+  box-shadow: 0 0 1px rgba(0,0,0,0.1);
+}
+.aroundgf-accordion .card,
+.aroundgf-accordion .card:last-child .card-header {
+  border: none;
+	background-color: transparent;
+}
+ 
+.aroundgf-accordion .card-header {
+  border-bottom-color: #EDEFF0;
+  background: transparent;
+}
+.aroundgf-accordion .card-body {
+  background-color:#b5c8a9;
+}
+ 
+.aroundgf-accordion .fa-stack {
+  font-size: 18px;
+}
+ 
+.aroundgf-accordion .btn {
+  width: 100%;
+  font-weight: bold;
+  color: #004987;
+  padding: 0;
+}
+ 
+.aroundgf-accordion .btn-link:hover,
+.aroundgf-accordion .btn-link:focus {
+  text-decoration: none;
+}
+ 
+.aroundgf-accordion li + li {
+  margin-top: 10px;
+}
